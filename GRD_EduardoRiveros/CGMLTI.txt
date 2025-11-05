@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 Oferta academica del centro de Gestion de Mercados, Logisticos y Tecnologias de la Información
 -Teleinformática
 -Logistica
 -Mercadeo
 
+=======
+>>>>>>> parent of 564d1a5 (Adicion de informacion)
